@@ -1,2 +1,2 @@
 # SpringBootStarterProject
-Basic Spring Boot Project
+Basic Spring Boot Hello world Project
